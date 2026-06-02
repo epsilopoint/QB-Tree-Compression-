@@ -182,7 +182,7 @@ If you would rather direct citations to the accompanying thesis, adapt:
 ```bibtex
 @mastersthesis{homza_qbtc_thesis,
   author = {Homza, Daniil},
-  title  = {{<thesis title>}},
+  title  = {Tree Sketch Structure and Orthogonal rounding},
   school = {<institution>},
   year   = {2026},
   type   = {Master's thesis}
