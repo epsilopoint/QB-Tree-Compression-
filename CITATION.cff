@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "QBTC / TreeStack: TTN-native randomized tensor-network compression"
+abstract: >-
+  Tree-tensor-network (TTN) compression with structured randomized sketches,
+  operating directly on the tree structure (TTN in, TTN out): QB Tree
+  Compression (QBTC) with an open-leaf TreeStack sketch, TTN-native baselines
+  (TTN-SVD, TTN-HMT, TTNN), and Cholesky-Based Compression (CBC) for tensor
+  trains.
+type: software
+authors:
+  - given-names: Daniil
+    family-names: Homza
+license: MIT
+# TODO: set to your actual release date and repository URL before publishing.
+date-released: "2026-06-02"
+url: "https://github.com/<your-username>/<your-repo>"

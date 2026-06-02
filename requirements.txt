@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+# Flop-minimizing contraction paths for the tree-network sketches (see
+# contract_network in ttn_format.py).  Strongly recommended: without it the
+# code falls back to numpy's optimizer, which can pick a flop-catastrophic
+# order on branching trees.  Pure-Python, no compiled extensions.
+opt_einsum>=3.3
